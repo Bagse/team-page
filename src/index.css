@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&family=Poppins:wght@500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1, p{
+    font-family: 'PT Serif', serif;
+}
+h2, h3, li, footer {
+    font-family: 'Poppins', sans-serif;
+}
